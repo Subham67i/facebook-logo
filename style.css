@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(75, 75, 224);
+    color: white;
+    text-align: center;
+    margin-top: 50;
+    font-size: 45px;
+    font-style: inherit;
+}
+.logoicon{
+   margin-top: 200;
+}
